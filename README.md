@@ -1,2 +1,2 @@
-# Notebooks-by-Nuno
-Lis of Jupyter Notebbok to view
+# Notebooks by Nuno
+List of Jupyter Notebooks to view.
